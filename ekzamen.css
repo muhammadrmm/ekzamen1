@@ -23,8 +23,8 @@
     height: 50px;
     background-color: #07AF91;
     border-radius: 10px;
-    margin-left: 250px;
-    margin-top: -10px;
+    margin-left: 1250px;
+    margin-top: -20px;
 }
 .voyti{
     padding: 15px;
@@ -56,4 +56,153 @@
     text-align: center;
     color: white;
     
+}
+.nahi{
+    margin-top: 100px;
+    margin-left: 100px;
+    color: #1178B2;
+
+}
+.analit{
+    color: #1178B2;
+    margin-top: 100px;
+    margin-left: 140px;
+}
+.odnim{
+    margin-left: 140px;
+    margin-top: 20px;
+    color: grey;
+}
+.rang2{
+    width: 170px;
+    height: 40px;
+    background-color: #07AF91;
+    border-radius: 10px;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+.uznat{
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.src3{
+    margin-left: 700px;
+    width: 400px;
+    margin-top: -250px;
+}
+.src4{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.onlayn{
+    margin-left: 700px;
+    color: #1178B2;
+    margin-top: -200px;
+}
+.prog{
+    color: gray;
+    margin-left: 700px;
+    margin-top: 20px;
+}
+.prog11{
+    width: 170px;
+    height: 40px;
+    background-color: #07AF91;
+    border-radius: 10px;
+    margin-left: 700px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 510px) {
+
+    .box {
+        width: 100%;
+        height: auto; 
+        display: flex;
+        flex-direction: column; 
+        align-items: center;
+        padding: 20px ;
+    }
+
+    
+    .kto {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+        width: 1px;
+        margin-left: 50px;
+        color: rgba(0, 0, 0, 0.004);
+        
+
+    }
+
+    .src {
+        display: flex;
+        margin-left: -290px;
+        
+    }
+
+    
+
+    .kabud {
+        margin-left: 130px;
+        margin-right: auto; 
+        width: 50%; 
+    }
+    
+    .rang {
+        margin-left: 220px;
+        margin-top: -30px;
+        
+    }
+    .zap{
+    text-align: center;
+    
+    margin-left: -50px;
+    font-size: 27px;
+    margin-top: -100px;
+    }
+    .ot{
+        font-size: 20px;
+        width: 500px;
+    
+    }
+    .nahi{
+        font-size: 30px;
+        display: flex;
+        text-align: center;
+        margin-left: 140px;
+   }
+  .analit{
+    display: flex;
+    text-align: center;
+}
+
+
+
+
 }
