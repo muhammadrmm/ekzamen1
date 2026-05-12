@@ -345,11 +345,81 @@
     text-align: center;
     margin-top: 50px;
     color: grey;
-}git
+}
+.bacr{
+    width: 900px;
+    height: 400px;
+    background-image: url(./Rectangle\ 1979.png);
+    display: flex;
+    margin: auto;
+    margin-top: 100px;
+}
+.aksel{
+    color: white;
+    font-size: 20px;
+    margin: auto;
+}
+.src0{
+    width: 100px;
+    height: 100px;
+    margin-top: 250px;
+    display: flex;
+    
+}
+.grav{
+        margin-top: 100px;
+        color: #1178B2;
+        margin-left: 100px;
+}
 
+.modules {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
 
+.module {
+  background: white;
+  border-radius: 10px;
+  padding: 18px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
 
+.module-head {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+  font-size: 14px;
+}
 
+.module-blue {
+  color: #2563eb;
+  font-weight: bold;
+}
+
+.module-body {
+  margin-top: 14px;
+  color: #6b7280;
+  font-size: 13px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.module-link {
+  color: #3b82f6;
+}
+.btn{
+    width: 140px;
+    height: 50px;
+    background-color: #1178B2;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.src33{
+   width: 100%;
+    margin-top: 100px;
+}
 
 
 
